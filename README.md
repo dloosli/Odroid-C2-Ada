@@ -15,7 +15,7 @@ This repository is separated into several subfolders. In each of these directori
 ## References
 A great repository to start with bare metal programming on the hardkernel Odroid C2 is the [ODROID-C2-bare-metal Repository by MrModd](https://github.com/MrModd/ODROID-C2-Bare-Metal).
 
-For Ada bare metal programming in general have a look at the [AdoCore Github repositories](https://github.com/AdaCore).
+For Ada bare metal programming in general have a look at the [AdaCore Github repositories](https://github.com/AdaCore).
 
 &nbsp;
 &nbsp;
